@@ -2,6 +2,10 @@
   "name": "dto-generator",
   "private": true,
   "version": "0.0.0",
+  "author": {
+    "name": "Leandro Victtorio",
+    "email": "leandrovicttorio78@gmail.com"
+  },
   "type": "module",
   "scripts": {
     "dev": "vite",
